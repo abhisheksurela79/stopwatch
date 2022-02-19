@@ -18,5 +18,3 @@ Time is the most essential part of everyones life and keeping track of this time
 
 Web link - https://abhisheksurela79.github.io/stopwatch/
 If you want this project then go ahead. Fork and clone it, make changes according to you. After that you can host it on Github using github pages.
-
-
